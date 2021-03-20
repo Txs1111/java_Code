@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="cn/T_Lyon/test/" kind="src" path="数据结构与算法/src"/>
+	<classpathentry kind="src" path="随手代码/src"/>
+	<classpathentry kind="src" path="引用代码/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="out/production/引用代码"/>
+</classpath>

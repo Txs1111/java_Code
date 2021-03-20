@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_and_structure/Algorithm_and_structure.iml" filepath="$PROJECT_DIR$/Algorithm_and_structure/Algorithm_and_structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Code.iml" filepath="$PROJECT_DIR$/java_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/new.iml" filepath="$PROJECT_DIR$/new/new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/引用代码/引用代码.iml" filepath="$PROJECT_DIR$/引用代码/引用代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据结构与算法/数据结构与算法.iml" filepath="$PROJECT_DIR$/数据结构与算法/数据结构与算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/随手代码/随手代码.iml" filepath="$PROJECT_DIR$/随手代码/随手代码.iml" />
+    </modules>
+  </component>
+</project>
